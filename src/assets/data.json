@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Tolga Otel",
+    "price": 100,
+    "image": "https://ucdn.tatilbudur.net/Otel/960x475/ayayorgi-hotel-by-t_312987.jpg",
+    "star": 6,
+    "location": "İstanbul"
+  },
+  {
+    "id": 2,
+
+    "name": "Bugrahan Otel",
+    "price": 150,
+    "image": "https://hotelrox.com/wp-content/uploads/2021/03/dis%CC%A73.jpg",
+    "star": 4,
+    "location": "Giresun"
+  },
+  {
+    "id": 3,
+
+    "name": "Mavi Otel",
+    "price": 200,
+    "image": "http://www.hotelakol.com.tr/images/background.png",
+    "star": 5,
+    "location": "İzmir"
+  },
+  {
+    "id": 4,
+
+    "name": "Baris Otel",
+    "price": 250,
+    "image": "https://www.michellhotel.com/uploads/michell-hotel-slider-12-img.jpg",
+    "star": 6,
+    "location": "Muğla"
+  }
+]
